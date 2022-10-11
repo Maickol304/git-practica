@@ -1,0 +1,112 @@
+commit 1d5b03c35e01ceef8011de01ee501e1cbb9115cd
+Merge: f2bdee3 98249b7
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Mon Oct 10 17:25:31 2022 -0500
+
+    Restaurando el html
+
+commit f2bdee34f62bf5363fac7ffabf676dc3a77b0bb1
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Mon Oct 10 17:16:07 2022 -0500
+
+    Devolviendo el html
+
+commit b31807c8cb3ecd0da6692b9e7626c735f4d7ccb0
+Merge: 236aa37 7a81b32
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 21:09:12 2022 -0500
+
+    Resolviendo conficto de estaciones del año y fechas de inicio
+
+commit 98249b7eee463438e19435779d566d2d39d06004
+Merge: 236aa37 7a81b32
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 21:09:12 2022 -0500
+
+    Resolviendo conficto de estaciones del año y fechas de inicio
+
+commit 236aa375c5d7714820226ed30dc3ba7d76b3a129
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 19:35:49 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7a81b3292ab1cdd59c0fc570d4c9c84ee840eb18
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 19:35:49 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 18267da5e418f02a07909cf68f5958188293ba5f
+Merge: bb91959 0ab20ba
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 18:39:32 2022 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 0ab20ba0486ec028775827d89a7cfdffd20d1921
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 17:51:50 2022 -0500
+
+    Agregando index.js al index.html
+
+commit bb9195915a50b8774283f6e439b536f6e9fbaa2b
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 17:47:16 2022 -0500
+
+    Agregando style.css al index.html
+
+commit da9c1efc6aeb1702422c74fdb710d4c204aabfaf
+Merge: b4d4f28 da61df9
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 17:09:29 2022 -0500
+
+    Merge branch 'js'
+
+commit da61df9b1fee2390eb4adb719667ac884287ebc3
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 16:09:07 2022 -0500
+
+    Creando index.js
+
+commit b4d4f28caf79f931451735c17a5b77899843a3ef
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 15:57:41 2022 -0500
+
+    creando style.css
+
+commit f466c685c92d2a6a0b440fcbce72293c182edbbf
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 15:44:44 2022 -0500
+
+    Creando index.html
+
+commit 02cbbb416c5a3be73c803ba447da2ef9616b9296
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Fri Sep 30 13:56:27 2022 -0500
+
+    Ignorandoarchivos .exe
+
+commit c0b6a0b8c481858c5dbd1ad11a8dff1284c8b104
+Author: Maickol304 <89616898+Maickol304@users.noreply.github.com>
+Date:   Fri Sep 30 11:55:08 2022 -0500
+
+    Creando licencia del repositorio
+
+commit b8ee4dc5669646ec24b9af38418e56e11c76f367
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Thu Sep 29 21:56:15 2022 -0500
+
+    Agregando más contenido al README
+
+commit 285999b45e7d9891acc6d21a00bb765b8d2fbe8e
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Thu Sep 29 18:37:34 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit e35dbdef713b111a79984bd3ed5301550da0b630
+Author: Maickol304 <maickolalarcon304@gmail.com>
+Date:   Thu Sep 29 18:30:55 2022 -0500
+
+    Mi primer commit 😁

@@ -1,0 +1,30 @@
+*   1d5b03c Restaurando el html
+|\  
+| *   98249b7 Resolviendo conficto de estaciones del año y fechas de inicio
+| |\  
+* | | f2bdee3 Devolviendo el html
+* | |   b31807c Resolviendo conficto de estaciones del año y fechas de inicio
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 7a81b32 Agregando las estaciones del año
+* | 236aa37 Agregando estaciones del año con fecha de inicio
+|/  
+*   18267da resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 0ab20ba Agregando index.js al index.html
+* | bb91959 Agregando style.css al index.html
+* |   da9c1ef Merge branch 'js'
+|\ \  
+| * | da61df9 Creando index.js
+* | | b4d4f28 creando style.css
+| |/  
+|/|   
+* | f466c68 Creando index.html
+|/  
+* 02cbbb4 Ignorandoarchivos .exe
+* c0b6a0b Creando licencia del repositorio
+* b8ee4dc Agregando más contenido al README
+* 285999b Agregando contenido inicial al README
+* e35dbde Mi primer commit 😁
